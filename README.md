@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Features](#key-features)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **EcoTrace** is an enterprise-grade platform designed to combat greenwashing by automatically collecting, analyzing, and verifying corporate sustainability claims. The system crawls company websites, sustainability reports, news articles, and regulatory filings to build a comprehensive knowledge graph of environmental commitments and their verification status.
 
@@ -51,40 +51,40 @@ EcoTrace provides:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔍 Live Sustainability Analysis
+###  Live Sustainability Analysis
 - **Real-time web crawling** with JavaScript rendering (Playwright integration)
 - Extract sustainability claims from corporate websites in seconds
 - Support for modern React/Next.js based corporate sites
 - Automatic claim classification (net-zero, renewable energy, waste reduction, etc.)
 
-### 🕸️ Multi-Source Data Collection
+###  Multi-Source Data Collection
 - **Corporate websites** - sustainability pages and ESG reports
 - **Regulatory filings** - EPA, SEC disclosures
 - **News articles** - media coverage and fact-checking
 - **Scientific publications** - peer-reviewed research validation
 - **PDF reports** - automated extraction from sustainability reports
 
-### 🧠 AI-Powered Analysis
+###  AI-Powered Analysis
 - **NLP-based claim extraction** with 14+ detection patterns
 - **Automatic claim categorization** and type classification
 - **Confidence scoring** for extracted claims
 - **Entity extraction** - companies, dates, numerical values, units
 - **Sentiment analysis** for news coverage
 
-### 📊 Knowledge Graph
+###  Knowledge Graph
 - **Neo4j-powered** relationship mapping
 - Visual representation of company-claim-evidence connections
 - Interactive graph exploration
 - Relationship-based insights and validation
 
-### 💾 Triple Database Architecture
+###  Triple Database Architecture
 - **Elasticsearch** - Full-text search and real-time analytics
 - **Neo4j** - Knowledge graph and relationship queries
 - **MongoDB** - Raw data storage and backup
 
-### 📈 Analytics Dashboard
+###  Analytics Dashboard
 - Trend analysis and visualization
 - Company credibility scoring
 - Claim verification statistics
@@ -93,7 +93,7 @@ EcoTrace provides:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### System Architecture
 
@@ -156,7 +156,7 @@ EcoTrace provides:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Framework**: FastAPI (Python 3.11+)
@@ -186,7 +186,7 @@ EcoTrace provides:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -214,7 +214,7 @@ That's it! The application will be running with all services configured.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Method 1: Docker (Recommended)
 
@@ -297,7 +297,7 @@ npm run build
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Live Company Analysis
 
@@ -332,7 +332,7 @@ For detailed API documentation, visit: `http://localhost:8000/docs`
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Core Endpoints
 
@@ -351,7 +351,7 @@ For detailed API documentation, visit: `http://localhost:8000/docs`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ecotrace/
@@ -396,7 +396,7 @@ ecotrace/
 
 ---
 
-## 🧪 Development
+##  Development
 
 ### Running Tests
 
@@ -432,7 +432,7 @@ npm run lint
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 See [Deployment Guide](docs/deployment/PRODUCTION_DEPLOYMENT_GUIDE.md) for detailed production deployment instructions.
 
@@ -447,19 +447,19 @@ See [Deployment Guide](docs/deployment/PRODUCTION_DEPLOYMENT_GUIDE.md) for detai
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with modern open-source technologies
 - Inspired by the need for corporate environmental accountability
@@ -467,14 +467,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/ecotrace/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/ecotrace/discussions)
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### v1.0 (Current)
 - [x] Core web crawling engine
