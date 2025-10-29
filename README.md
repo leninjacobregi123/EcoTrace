@@ -97,7 +97,7 @@ EcoTrace provides:
 
 ### System Architecture 
 
-"https://github.com/user-attachments/assets/3efe1d89-a3d7-430f-ae09-02838530b024" />
+"https://github.com/user-attachments/assets/3efe1d89-a3d7-430f-ae09-02838530b024"
 
 
 ### Data Flow
