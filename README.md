@@ -102,22 +102,7 @@ EcoTrace provides:
 
 ### Data Flow
 
-```
-1. DATA COLLECTION
-   Corporate Website → Scrapy+Playwright → HTML/PDF Content
-
-2. EXTRACTION
-   Content → Regex Patterns + NLP → Structured Claims
-
-3. VALIDATION
-   Claims → Confidence Scoring → Classification
-
-4. STORAGE
-   Structured Data → Triple Database → Indexed & Queryable
-
-5. PRESENTATION
-   API → React Frontend → User Dashboard
-```
+https://github.com/user-attachments/assets/15f05a07-7a6e-4a12-ab44-dd459a78de92
 
 ---
 
