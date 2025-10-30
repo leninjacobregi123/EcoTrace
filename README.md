@@ -97,7 +97,7 @@ EcoTrace provides:
 
 ### System Architecture 
 
-"https://github.com/user-attachments/assets/3efe1d89-a3d7-430f-ae09-02838530b024"
+https://github.com/user-attachments/assets/3efe1d89-a3d7-430f-ae09-02838530b024
 
 
 ### Data Flow
@@ -170,7 +170,7 @@ That's it! The application will be running with all services configured.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ecotrace.git
+git clone https://github.com/leninjacobregi123/ecotrace.git
 cd ecotrace
 ```
 
